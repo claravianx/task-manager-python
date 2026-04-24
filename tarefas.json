@@ -1,0 +1,10 @@
+[
+    {
+        "titulo": "Estudar Python",
+        "concluida": false
+    },
+    {
+        "titulo": "Fazer treino de quadríceps",
+        "concluida": true
+    }
+]
